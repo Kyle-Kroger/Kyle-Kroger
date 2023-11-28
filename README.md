@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kyle Kroger</h1>
-<h3 align="center">A passionate software developer from Minnesota</h3>
+<img src="https://github.com/Kyle-Kroger/Kyle-Kroger/assets/62579188/cce8ac03-63c6-4207-a3c3-b5b24b71b3fe" width="100%">
+
+<h1 align="center">Hello 👋, Welcome to my Github!</h1>
+<h3 align="center">I'm a passionate software developer from Minnesota</h3>
 
 - 🔭 I’m currently working on [A playlist builder for Spotify](https://github.com/Kyle-Kroger/spotify-playlist-builder)
 
