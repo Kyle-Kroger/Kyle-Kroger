@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js and Prisma**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO LINK HERE](PORTFOLIO LINK HERE)
+- 👨‍💻 Come check out what I have built [on my portfolio](https://www.kylekroger.com/)
 
 - 💬 Ask me about **React, Javascript, and CSS**
 
